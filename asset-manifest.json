@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mood-tracker/static/css/main.e6c13ad2.css",
+    "main.js": "/mood-tracker/static/js/main.94c38d61.js",
+    "static/js/453.5a233ef5.chunk.js": "/mood-tracker/static/js/453.5a233ef5.chunk.js",
+    "index.html": "/mood-tracker/index.html",
+    "main.e6c13ad2.css.map": "/mood-tracker/static/css/main.e6c13ad2.css.map",
+    "main.94c38d61.js.map": "/mood-tracker/static/js/main.94c38d61.js.map",
+    "453.5a233ef5.chunk.js.map": "/mood-tracker/static/js/453.5a233ef5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.94c38d61.js"
+  ]
+}
