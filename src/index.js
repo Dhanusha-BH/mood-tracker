@@ -13,7 +13,7 @@ root.render(
 );
 root.render(
   <React.StrictMode>
-    <BrowserRouter basename="/mern-fullstack-learning">
+    <BrowserRouter basename="/react-projects">
       <App />
     </BrowserRouter>
   </React.StrictMode>
